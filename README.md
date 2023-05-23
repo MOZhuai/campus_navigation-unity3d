@@ -1,6 +1,7 @@
 # 校园考场导航系统的设计和实现(Unity3D部分源码以及项目说明)
 本项目是主要由 Unity3d 和 Android 设计的导航应用，使用的框架包括EasyAR、SSM和百度地图等。
 该部分为 Unity3d 的源代码。
+### 项目视频介绍(to be released)
 
 ### 项目简介
 本系统选取SSM技术框架，采用MVC设计模式，构建基于web的系统架构。基于开源的Android系统，借助百度地图API实现室外二维、三维的导航功能，采用Unity3D + EasyAR 4.0框架实现教学楼内的实景导航功能，从而开发能够帮助外来考生快速寻找考点的考场导航系统。
@@ -15,7 +16,7 @@
 |[地图管理人员端Android](https://github.com/MOZhuai/campus_navigation-examinee)|用于采集空间地图信息，保存地图信息在EasyAR云端地图库，在数据库内保存途经点、路径等信息|
 
 ### 项目整体框架
-|<img width="350" alt="image" src="https://github.com/MOZhuai/campus_navigation-unity3d/assets/35127072/98d569e1-496d-439a-a1e7-b8cbca7c1bfb">|<img width="308" alt="image" src="https://github.com/MOZhuai/campus_navigation-unity3d/assets/35127072/c7166896-f55b-40b7-b079-f2f07adab0c3">|
+|<img width="360" alt="image" src="https://github.com/MOZhuai/campus_navigation-unity3d/assets/35127072/98d569e1-496d-439a-a1e7-b8cbca7c1bfb">|<img width="360" alt="image" src="https://github.com/MOZhuai/campus_navigation-unity3d/assets/35127072/c7166896-f55b-40b7-b079-f2f07adab0c3">|
 |:--:|:--:|
 | **功能框架** | **系统架构** |
 
@@ -42,3 +43,9 @@
 |<img width="800" alt="image" src="https://github.com/MOZhuai/campus_navigation-unity3d/assets/35127072/728c9c28-e4ae-463d-964f-2d97a77c8119">|
 |:--:|
 | **考试科目管理** |
+
+
+|<img width="800" alt="image" src="https://github.com/MOZhuai/campus_navigation-unity3d/assets/35127072/c564bab1-cd03-4704-9541-a8129cde407a">|
+|:--:|
+| **地图管理** |
+
