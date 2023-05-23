@@ -2,7 +2,7 @@
 本项目是主要由 Unity3d 和 Android 设计的导航应用，使用的框架包括EasyAR、SSM和百度地图等。
 该部分为 Unity3d 的源代码。
 ### 项目视频介绍(to be released)
-[![校园考场导航系统](https://i.ytimg.com/vi/xnkWCshrG84/maxresdefault.jpg)](https://www.youtube.com/watch?v=xnkWCshrG84 "校园考场导航系统")
+[<img src="https://i.ytimg.com/vi/xnkWCshrG84/maxresdefault.jpg" alt="drawing" width="800" />](https://www.youtube.com/watch?v=xnkWCshrG84)
 
 ### 项目简介
 本系统选取SSM技术框架，采用MVC设计模式，构建基于web的系统架构。基于开源的Android系统，借助百度地图API实现室外二维、三维的导航功能，采用Unity3D + EasyAR 4.0框架实现教学楼内的实景导航功能，从而开发能够帮助外来考生快速寻找考点的考场导航系统。
