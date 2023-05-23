@@ -1,7 +1,7 @@
 # 校园考场导航系统的设计和实现(Unity3D部分源码以及项目说明)
 本项目是主要由 Unity3d 和 Android 设计的导航应用，使用的框架包括EasyAR、SSM和百度地图等。
 该部分为 Unity3d 的源代码。
-### 项目视频介绍(to be released)
+### 项目视频介绍
 [<img src="https://i.ytimg.com/vi/xnkWCshrG84/maxresdefault.jpg" alt="drawing" width="800" />](https://www.youtube.com/watch?v=xnkWCshrG84)
 
 ### 项目简介
